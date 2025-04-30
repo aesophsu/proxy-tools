@@ -121,3 +121,11 @@ curl -o /data/AdGuardHome/AdGuardHome -L https://ghgo.xyz/https://github.com/Dus
 ```
 2. 按一下 Esc 键（退出键），输入英文冒号 `:`，继续输入 `wq` 并回车
 3. 执行 `crash`，进入 ShellCrash -> 5 配置自动任务 -> 1 添加自动任务，可以看到末尾就有添加的定时任务，输入对应的数字并回车后可设置执行条件
+
+# 给作者加鸡腿
+<img src="https://github.com/user-attachments/assets/e640fdf6-0990-421f-8ec6-2d263b533b89" alt="支付宝" width="30%" />
+<img src="https://github.com/user-attachments/assets/470f501c-5a59-45d8-8e0f-6e034376f107" alt="微信" width="30%" />
+
+# 机场推荐
+[Bitz Net](https://new.bnaffloop.com/#/register?code=HT0ALWZq)（仅次于一线机场，推荐打折时购买）  
+88 折优惠码：`512025`（有效期至 2025 年 5 月 2 日 23:59 分）
